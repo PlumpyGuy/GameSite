@@ -1,2 +1,2 @@
 # GameSite
-Jest to strona oferująca usługi tworzenia gier. Zostały w niej wykorzystane elementy BootStrapowe, a także slick.js oraz aos.
+This is a site that offers game development services. BootStrap elements were used in it, as well as slick.js and aos.
